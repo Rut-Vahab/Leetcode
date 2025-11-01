@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rut-Vahab/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0018-4sum](https://github.com/Rut-Vahab/Leetcode/tree/master/0018-4sum) |
 | [0769-largest-plus-sign](https://github.com/Rut-Vahab/Leetcode/tree/master/0769-largest-plus-sign) |
 ## Binary Search
 |  |
@@ -24,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Rut-Vahab/Leetcode/tree/master/0007-reverse-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/Rut-Vahab/Leetcode/tree/master/0018-4sum) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/Rut-Vahab/Leetcode/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
