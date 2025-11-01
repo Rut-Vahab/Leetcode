@@ -20,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0769-largest-plus-sign](https://github.com/Rut-Vahab/Leetcode/tree/master/0769-largest-plus-sign) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Rut-Vahab/Leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
