@@ -1,41 +1,27 @@
 class Solution {
 public:
-    // int orderOfLargestPlusSign(int n, vector<vector<int>>& mines) {
-    //     for (int i = 0 ףi <vector.size(); i ++){
-    //         for ()
-    //     }
-    // }
-
 
     int orderOfLargestPlusSign(int n, vector<vector<int>>& mines) {
-        // מטריצה ראשית – מלא ב־n (המקסימום האפשרי)
         vector<vector<int>> grid(n, vector<int>(n, n));
         
-        // הצבת מינוסים במקום המוקשים
         for (auto &m : mines) {
             grid[m[0]][m[1]] = 0;
         }
         
-        // עבור כל שורה
         for (int i = 0; i < n; ++i) {
             int count = 0;
-            // שמאל → ימין
             for (int j = 0; j < n; ++j) {
                 count = (grid[i][j] == 0 ? 0 : count + 1);
                 grid[i][j] = min(grid[i][j], count);
             }
             count = 0;
-            // ימין → שמאל
             for (int j = n - 1; j >= 0; --j) {
                 count = (grid[i][j] == 0 ? 0 : count + 1);
                 grid[i][j] = min(grid[i][j], count);
             }
         }
-        
-        // עבור כל עמודה
         for (int j = 0; j < n; ++j) {
             int count = 0;
-            // למעלה → למטה
             for (int i = 0; i < n; ++i) {
                 count = (grid[i][j] == 0 ? 0 : count + 1);
                 grid[i][j] = min(grid[i][j], count);
