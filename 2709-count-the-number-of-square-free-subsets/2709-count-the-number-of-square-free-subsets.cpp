@@ -4,7 +4,7 @@ public:
     vector<int> primes = {2,3,5,7,11,13,17,19,23,29};
 
     int getMask(int x) {
-        if (x == 1) return 0; // 1 חסר ריבוע
+        if (x == 1) return 0;
         int mask = 0;
         for (int i = 0; i < primes.size(); i++) {
             int p = primes[i], count = 0;
@@ -12,10 +12,10 @@ public:
                 x /= p;
                 count++;
             }
-            if (count > 1) return -1; // ריבוע → דוחים
+            if (count > 1) return -1; 
             if (count == 1) mask |= (1 << i);
         }
-        if (x > 1) return -1; // גורם גדול מחוץ לפריימים
+        if (x > 1) return -1;
         return mask;
     }
 
