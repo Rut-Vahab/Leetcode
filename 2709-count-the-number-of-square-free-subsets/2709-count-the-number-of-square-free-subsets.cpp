@@ -44,7 +44,6 @@ public:
             result = (result + dp[mask]) % MOD;
         }
 
-        // אם יש כמה 1-ים
         long long pow1 = 1;
         for (int i = 0; i < count1; i++) pow1 = (pow1 * 2) % MOD;
 
