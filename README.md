@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Rut-Vahab/Leetcode/tree/master/0018-4sum) |
 | [0769-largest-plus-sign](https://github.com/Rut-Vahab/Leetcode/tree/master/0769-largest-plus-sign) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Rut-Vahab/Leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
+| [2709-count-the-number-of-square-free-subsets](https://github.com/Rut-Vahab/Leetcode/tree/master/2709-count-the-number-of-square-free-subsets) |
 ## Binary Search
 |  |
 | ------- |
@@ -23,10 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0769-largest-plus-sign](https://github.com/Rut-Vahab/Leetcode/tree/master/0769-largest-plus-sign) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Rut-Vahab/Leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
+| [2709-count-the-number-of-square-free-subsets](https://github.com/Rut-Vahab/Leetcode/tree/master/2709-count-the-number-of-square-free-subsets) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Rut-Vahab/Leetcode/tree/master/0007-reverse-integer) |
+| [2709-count-the-number-of-square-free-subsets](https://github.com/Rut-Vahab/Leetcode/tree/master/2709-count-the-number-of-square-free-subsets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Rut-Vahab/Leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2709-count-the-number-of-square-free-subsets](https://github.com/Rut-Vahab/Leetcode/tree/master/2709-count-the-number-of-square-free-subsets) |
+## Bitmask
+|  |
+| ------- |
+| [2709-count-the-number-of-square-free-subsets](https://github.com/Rut-Vahab/Leetcode/tree/master/2709-count-the-number-of-square-free-subsets) |
 <!---LeetCode Topics End-->
