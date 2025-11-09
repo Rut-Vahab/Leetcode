@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-largest-plus-sign](https://github.com/Rut-Vahab/Leetcode/tree/master/0769-largest-plus-sign) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Rut-Vahab/Leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2709-count-the-number-of-square-free-subsets](https://github.com/Rut-Vahab/Leetcode/tree/master/2709-count-the-number-of-square-free-subsets) |
+| [3611-construct-the-minimum-bitwise-array-ii](https://github.com/Rut-Vahab/Leetcode/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2709-count-the-number-of-square-free-subsets](https://github.com/Rut-Vahab/Leetcode/tree/master/2709-count-the-number-of-square-free-subsets) |
+| [3611-construct-the-minimum-bitwise-array-ii](https://github.com/Rut-Vahab/Leetcode/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 ## Bitmask
 |  |
 | ------- |
