@@ -1,14 +1,12 @@
 class Solution {
 public:
-    // int maximumCostSubstring(string s, string chars, vector<int>& vals) {
+
 int maximumCostSubstring(string s, string chars, vector<int>& vals) {
-    // מערך ערכים לכל אות באנגלית
     vector<int> value(26);
     for (int i = 0; i < 26; i++) value[i] = i + 1;
     for (int i = 0; i < chars.size(); i++) {
         value[chars[i] - 'a'] = vals[i];
     }
-
     int max_sum = 0;
     int current_sum = 0;
 
@@ -21,5 +19,4 @@ int maximumCostSubstring(string s, string chars, vector<int>& vals) {
     return max_sum;
 }
 
-    // }
 };
