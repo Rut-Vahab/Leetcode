@@ -13,13 +13,8 @@ public:
             x=x/=10;
             count ++;
         }
-        for( int i =0 ; i <count/2; i++){
-            if(res%10 != temp%10 )
-                return false;
-            res= res/10;
-            temp= temp/10;
-        }
-        return true;
+
+        return res==temp;
 
 
     }
