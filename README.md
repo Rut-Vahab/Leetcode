@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Rut-Vahab/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/Rut-Vahab/Leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rut-Vahab/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0287-find-the-duplicate-number](https://github.com/Rut-Vahab/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0769-largest-plus-sign](https://github.com/Rut-Vahab/Leetcode/tree/master/0769-largest-plus-sign) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Rut-Vahab/Leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2709-count-the-number-of-square-free-subsets](https://github.com/Rut-Vahab/Leetcode/tree/master/2709-count-the-number-of-square-free-subsets) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rut-Vahab/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Rut-Vahab/Leetcode/tree/master/0035-search-insert-position) |
+| [0287-find-the-duplicate-number](https://github.com/Rut-Vahab/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Rut-Vahab/Leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rut-Vahab/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0287-find-the-duplicate-number](https://github.com/Rut-Vahab/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Rut-Vahab/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2709-count-the-number-of-square-free-subsets](https://github.com/Rut-Vahab/Leetcode/tree/master/2709-count-the-number-of-square-free-subsets) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/Rut-Vahab/Leetcode/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 ## Bitmask
