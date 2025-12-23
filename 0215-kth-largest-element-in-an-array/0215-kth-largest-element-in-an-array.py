@@ -4,15 +4,13 @@ class Solution(object):
     def findKthLargest(self, nums, k):
         left = 0
         right = len(nums) - 1
-        target = len(nums) - k  # kth largest = (n-k)th smallest
+        target = len(nums) - k  
 
         while True:
-            # בוחרים pivot אקראי
             pivot_index = random.randint(left, right)
             pivot = nums[pivot_index]
             nums[pivot_index], nums[right] = nums[right], nums[pivot_index]
 
-            # Dutch National Flag partition (שלושה חלקים)
             start = left
             end = right
             i = left
