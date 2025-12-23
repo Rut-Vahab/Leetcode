@@ -28,7 +28,7 @@ class Solution(object):
                 else:
                     i += 1
 
-            # עכשיו:
+            
             # nums[left:start] < pivot
             # nums[start:end+1] == pivot
             # nums[end+1:right+1] > pivot
