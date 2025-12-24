@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Rut-Vahab/Leetcode/tree/master/0018-4sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rut-Vahab/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0791-custom-sort-string](https://github.com/Rut-Vahab/Leetcode/tree/master/0791-custom-sort-string) |
 ## Linked List
 |  |
 | ------- |
@@ -62,10 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Rut-Vahab/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0791-custom-sort-string](https://github.com/Rut-Vahab/Leetcode/tree/master/0791-custom-sort-string) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Rut-Vahab/Leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 ## String
 |  |
 | ------- |
+| [0791-custom-sort-string](https://github.com/Rut-Vahab/Leetcode/tree/master/0791-custom-sort-string) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Rut-Vahab/Leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 ## Bit Manipulation
 |  |
