@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Rut-Vahab/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/Rut-Vahab/Leetcode/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/Rut-Vahab/Leetcode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Rut-Vahab/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rut-Vahab/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Rut-Vahab/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/Rut-Vahab/Leetcode/tree/master/0198-house-robber) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Rut-Vahab/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rut-Vahab/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Rut-Vahab/Leetcode/tree/master/0198-house-robber) |
 | [0769-largest-plus-sign](https://github.com/Rut-Vahab/Leetcode/tree/master/0769-largest-plus-sign) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Rut-Vahab/Leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rut-Vahab/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Rut-Vahab/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0287-find-the-duplicate-number](https://github.com/Rut-Vahab/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
@@ -112,4 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rut-Vahab/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Rut-Vahab/Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Rut-Vahab/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
