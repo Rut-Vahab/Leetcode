@@ -4,7 +4,7 @@ class Solution:
         num = 0 
         s = s.lstrip()
         for i, char  in enumerate(s):
-            if s[i] ==  "-" and i == 0 :
+            if s[i] is   "-" and i is  0 :
                 negative = True
             elif s[i] == "+" and i == 0:  # טיפול בסימן +
                 continue
