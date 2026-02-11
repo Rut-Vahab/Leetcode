@@ -6,7 +6,7 @@ class Solution:
         for i, char  in enumerate(s):
             if s[i] is   "-" and i is  0 :
                 negative = True
-            elif s[i] == "+" and i == 0:  # טיפול בסימן +
+            elif s[i] == "+" and i == 0: 
                 continue
                 print("dd")
             elif s[i].isdigit() :
