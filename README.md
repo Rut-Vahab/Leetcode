@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Rut-Vahab/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0791-custom-sort-string](https://github.com/Rut-Vahab/Leetcode/tree/master/0791-custom-sort-string) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Rut-Vahab/Leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 ## Bit Manipulation
