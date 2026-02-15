@@ -70,12 +70,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rut-Vahab/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/Rut-Vahab/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0791-custom-sort-string](https://github.com/Rut-Vahab/Leetcode/tree/master/0791-custom-sort-string) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Rut-Vahab/Leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rut-Vahab/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Rut-Vahab/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0791-custom-sort-string](https://github.com/Rut-Vahab/Leetcode/tree/master/0791-custom-sort-string) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Rut-Vahab/Leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rut-Vahab/Leetcode/tree/master/0002-add-two-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rut-Vahab/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
